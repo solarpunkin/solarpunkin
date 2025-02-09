@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Bhardwaj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Humans
+- 🌱 and coffee
 - 📫 Reach me at https://www.linkedin.com/in/gaurav-bhradwaj-3b2ab721a/ - Linked-in
 
 <!---
