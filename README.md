@@ -13,8 +13,4 @@ I'm an engineering student interested in all things AI and Humans
 
 ---
 
-## 📫 Connect with Me  
-
-- **Email:** gaurav290802@gmail.com  
-
 💡 **Open to collaborating on innovative AI projects. Let's build something amazing together!**  
