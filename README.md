@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Gaurav Bhardwaj
-- 👀 I’m interested in Humans
-- 🌱 and coffee
-- 📫 Reach me at https://www.linkedin.com/in/gaurav-bhradwaj-3b2ab721a/ - Linked-in
+### Hey, I'm Gaurav! 🚀  
 
-<!---
-gaurav-bhardwaj29/gaurav-bhardwaj29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an engineering student interested in all things AI and Humans
+
+---
+
+## 🔍 Interests  
+
+- Efficient and scalable AI models  
+- Multimodal learning (vision and language)  
+- Reinforcement learning for decision-making  
+- Ethical AI and bias mitigation  
+
+---
+
+## 📫 Connect with Me  
+
+- **Email:** gaurav290802@gmail.com  
+
+💡 **Open to collaborating on innovative AI projects. Let's build something amazing together!**  
