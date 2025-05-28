@@ -83,7 +83,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🏷️ Socials
 
 <p align="center">
   <a href="mailto:gaurav290802@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
