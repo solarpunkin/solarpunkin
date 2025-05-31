@@ -17,68 +17,27 @@
   <b>🚀 Developer | OSS Enthusiast | Problem Solver | AI Explorer</b>
 </p>
 
----
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,jupyter,html,bash,linux,vim,git" alt="Tech stack icons" height="32"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,swift,bash,aws,linux,vim,git,docker" alt="Tech stack icons" height="32"/>
 </p>
 
----
 
-## 🌟 Popular & Recent Projects
-
-<table>
-  <tr>
-    <td><a href="https://github.com/gaurav-bhardwaj29/FFANet"><b>FFANet</b></a></td>
-    <td>Jupyter Notebook | <img src="https://img.shields.io/github/license/gaurav-bhardwaj29/FFANet?style=flat-square"/> | <img src="https://img.shields.io/github/last-commit/gaurav-bhardwaj29/FFANet?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gaurav-bhardwaj29/AIsecure"><b>AIsecure</b></a></td>
-    <td>HTML | <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/> | Ongoing Project</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gaurav-bhardwaj29/github-stats"><b>github-stats</b></a></td>
-    <td>Python | <img src="https://img.shields.io/github/stars/gaurav-bhardwaj29/github-stats?style=flat-square"/> | <img src="https://img.shields.io/github/last-commit/gaurav-bhardwaj29/github-stats?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gaurav-bhardwaj29/shell-by"><b>shell-by</b></a></td>
-    <td>C | Custom Shell implementation</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gaurav-bhardwaj29/crewai-blogpost"><b>crewai-blogpost</b></a></td>
-    <td>Python | <a href="https://kamikaze.streamlit.app/">Live Demo</a></td>
-  </tr>
-</table>
-
-<details>
-<summary>See More Projects</summary>
-
-- <a href="https://github.com/gaurav-bhardwaj29/doc-tool"><b>doc-tool</b></a>: Markdown to HTML documentor
-- ...and more!  
-🔗 <a href="https://github.com/search?q=user:gaurav-bhardwaj29&sort=updated&order=desc&per_page=20">View all repositories</a>
-</details>
-
----
-
-## 📈 My GitHub Story
+## 📈 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-bhardwaj29&show_icons=true&theme=react&hide=issues" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </div>
 
----
 
 ## 🚀 Interests & Hobbies
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧩 Creative Coding & Generative Art
-- 🛠️ Building Tools for Developers
-- 🐧 Linux Customization & Automation
+- 🤖 AI & ML
+- 🧩 Coding & Generative Art
+- 🤷🏻‍♂️ Firechatting
 
----
 
 ## 🏷️ Socials
 
