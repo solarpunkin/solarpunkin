@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <b>🚀 Developer | OSS Enthusiast | Problem Solver | AI Explorer</b>
+  <b>🚀 Developer | OSS | AI Explorer</b>
 </p>
 
 
