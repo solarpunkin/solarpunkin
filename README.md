@@ -14,9 +14,6 @@
 <br>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98477295?v=4" width="120" style="border-radius:50%;box-shadow:0 0 18px #3CF2FF99;" alt="Gaurav's avatar">
-</p>
-<p align="center">
   <b>🚀 Developer | OSS Enthusiast | Problem Solver | AI Explorer</b>
 </p>
 
