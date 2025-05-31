@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=3CF2FF&random=false&center=true&vCenter=true&width=450&lines=Hi+,+I'm+Gaurav+%F0%9F%91%8B;AI+%5C+Systems+%5C+Open+Source+%5C+Shipping;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=3CF2FF&random=false&center=true&vCenter=true&width=450&lines=Hi+,+I'm+Gaurav+%F0%9F%91%8B;AI+%5C+Systems+%5C+Open+Source+%5C+Shipping;Welcome+to+my+GitHub!+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <br>
