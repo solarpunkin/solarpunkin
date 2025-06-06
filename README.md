@@ -14,17 +14,17 @@
 <br>
 
 <p align="center">
-  <b>🚀 Developer | OSS | AI Explorer</b>
+  <b> Developer | OSS | AI Explorer</b>
 </p>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,swift,bash,aws,linux,vim,git,docker" alt="Tech stack icons" height="32"/>
 </p>
 
 
-## 📈 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-bhardwaj29&show_icons=true&theme=react&hide=issues" height="150"/>
@@ -32,11 +32,11 @@
 </div>
 
 
-## 🚀 Interests & Hobbies
+## Interests & Hobbies
 
-- 🤖 AI & ML
-- 🧩 Coding & Generative Art
-- 🤷🏻‍♂️ Firechatting
+- AI & ML
+- Coding & Generative Art
+- Firechatting 🤷🏻‍♂️
 
 
 ## 🏷️ Socials
