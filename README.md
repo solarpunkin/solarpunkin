@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-bhardwaj29&show_icons=true&theme=react&hide=issues" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </div>
 
 
