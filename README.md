@@ -21,7 +21,6 @@
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,swift,bash,aws,linux,vim,git,docker" alt="Tech stack icons" height="32"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </p>
 
 
@@ -29,6 +28,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-bhardwaj29&show_icons=true&theme=react&hide=issues" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </div>
 
 
