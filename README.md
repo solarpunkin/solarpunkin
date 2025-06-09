@@ -21,6 +21,7 @@
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,swift,bash,aws,linux,vim,git,docker" alt="Tech stack icons" height="32"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </p>
 
 
@@ -42,7 +43,6 @@
 
 <p align="center">
   <a href="mailto:gaurav290802@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gauravbhardwaj29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
