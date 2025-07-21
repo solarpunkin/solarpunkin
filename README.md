@@ -14,13 +14,13 @@
 <br>
 
 <p align="center">
-  <b> Developer | OSS | AI Explorer</b>
+  <b> Developer | AI | Terminal</b>
 </p>
 
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,swift,bash,aws,linux,vim,git,docker" alt="Tech stack icons" height="32"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,swift,apple,bash,aws,gcp,linux,vim,git,docker,zig" alt="Tech stack icons" height="32"/>
 </p>
 
 
