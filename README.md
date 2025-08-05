@@ -31,6 +31,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-bhardwaj29&theme=react" height="150"/>
 </div>
 
+### Interest & Hobbies
+
+- Fedi
+- Fuzz T
+- Fire Fighting
+- Farcaster
+
+no particular order
 
 ## 🏷️ Socials
 
