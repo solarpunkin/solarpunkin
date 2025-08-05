@@ -32,13 +32,6 @@
 </div>
 
 
-## Interests & Hobbies
-
-- AI & ML
-- Coding & Generative Art
-- Firechatting 🤷🏻‍♂️
-
-
 ## 🏷️ Socials
 
 <p align="center">
