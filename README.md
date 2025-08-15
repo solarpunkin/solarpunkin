@@ -27,7 +27,6 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solarpunkin&show_icons=true&theme=react&hide=issues" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=solarpunkin&theme=react" height="150"/>
 </div>
 
