@@ -33,7 +33,6 @@
 ### Interest & Hobbies
 
 - Fedi
-- Fuzz T
 - Fire Fighting
 - Farcaster
 
