@@ -3,7 +3,7 @@ this was a dumb idea
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=3CF2FF&random=false&center=true&vCenter=true&width=450&lines=Hi+,+I'm+a+Solarpunk+%F0%9F%91%8B;Systems+%5C+Protocols+%5C+Metal;Solarpunkins+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=3CF2FF&random=false&center=true&vCenter=true&width=450&lines=Hi+,+I'm+gaurav+%F0%9F%91%8B;Systems+%5C+Protocols+%5C+Metal;Solarpunkins+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <br>
