@@ -26,7 +26,7 @@ this was a dumb idea
 
 no particular order
 
-## 🏷️ Social
+## find me @
 
 <p align="center">
   <a href="mailto:gaurxv@proton.me"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
