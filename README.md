@@ -13,9 +13,9 @@ this was a dumb idea
   <b> let's build distributed systems </b>
 </p>
 
-## Tech Stack
+## barely know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,swift,apple,bash,aws,gcp,linux,vim,git,docker,zig,terraform" alt="Tech stack icons" height="32"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,swift,apple,bash,aws,gcp,linux,vim,git,docker,zig,terraform" alt="Tech stack icons" height="20"/>
 </p>
 
 ### Interest & Hobbies
