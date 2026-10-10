@@ -9,8 +9,8 @@ this was a dumb idea
 <br>
 
 <p align="center">
-  <b> we are a distributed people </b><br>
-  <b> let's build distributed systems </b>
+  <!-- <b> we are a distributed people </b><br>
+  <b> let's build distributed systems </b> -->
 </p>
 
 ## barely know
